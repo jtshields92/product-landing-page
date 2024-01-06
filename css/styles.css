@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header-container {
+    color: #fff;
+    background-color: #1f2937;
+    padding: 20 0;
+    display: flex;
+    justify-content: center;
+    height: 510px;
+}
+.header {
+    width: 900px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+}
+h2 {
+    text-align: center;
+}
