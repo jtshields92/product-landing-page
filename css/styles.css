@@ -76,3 +76,33 @@ button {
     margin-right: 580px;
     margin-top: 10px;
 }
+.secondary-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    text-align: center;
+}
+.content-two {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    max-width: 100%;
+    margin: 100px;
+}
+.brand-logo {
+    border: 2px solid #3882f6;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    margin: auto;
+}
+.brand-subtext {
+    color: #1f2937;
+    margin: auto;
+    text-align: center;
+}
